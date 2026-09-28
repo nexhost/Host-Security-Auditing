@@ -1,0 +1,13 @@
+{
+  "data_dir": "~/.local/share/nexhost-hsa",
+  "safe_mode": true,
+  "max_targets": 256,
+  "scan_timeout_seconds": 300,
+  "nmap_path": "nmap",
+  "allowlist": ["192.168.56.0/24"],
+  "denylist": [],
+  "demo_mode": false,
+  "n8n_webhook_url": null,
+  "wazuh_api_url": null,
+  "misp_api_url": null
+}
